@@ -1,1 +1,1 @@
-greets = ["hello", "good morning", "hi", "howdy"]
+greets = ["hello", "good morning", "hi", "howdy", "hey"]
